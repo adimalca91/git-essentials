@@ -1,2 +1,2 @@
 This is the first push using vim
-
+This is the second push using vim and using the set number command.
